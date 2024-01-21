@@ -1,6 +1,6 @@
 ### Hello, I'm Flo 👋
 
-Fullstack ```Angular``` developer based in Paris | in ❤️ with ```TypeScript```
+Fullstack developer based in Paris | in ❤️ with Angular
 
 I'm currently building a typing website with my sister to help people type better and faster!  
 
