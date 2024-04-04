@@ -2,7 +2,7 @@
 
 Fullstack developer based in Paris | in ❤️ with Angular
 
-I'm currently building a typing website with my sister to help people type better and faster!  
+I'm currently building a typing website to help people type better and faster!  
 
 You can take a look at my [personal website](https://florianhamel.com) for more info and/or to reach me on my socials 😊
 
